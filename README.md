@@ -1,3 +1,3 @@
 # merge-conflicts
-REMOTE
+LOCAL
 learn how to merge and resolve conflicts
